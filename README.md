@@ -2,7 +2,7 @@
 
 # Create an interactive fiction story application in C++
  
-#Assignment Objectives:
+# Assignment Objectives:
 * Create a C++ program that uses more than one function.
 * Control all your functions through the main function.
 * Pass and return parameters to your functions.
